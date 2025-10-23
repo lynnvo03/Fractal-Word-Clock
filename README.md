@@ -1,4 +1,3 @@
 # hello-world
 
-# Hello World
-This is my first GitHub repository!
+This is a by-the-minute word clock created in HTML, CSS, and JavaScript. It features beautiful color-changing fractals!
