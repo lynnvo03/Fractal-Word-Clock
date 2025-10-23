@@ -1,3 +1,3 @@
-# hello-world
+# Fractal Word Clock
 
 This is a by-the-minute word clock created in HTML, CSS, and JavaScript. It features beautiful color-changing fractals!
